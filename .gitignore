@@ -1,0 +1,21 @@
+# datasets
+datasets/
+DFireDataset/
+*.zip
+
+# models
+*.pt
+*.weights
+
+# logs
+*.log
+
+# node
+node_modules/
+node-v20.18.0-linux-x64/
+
+# env
+.env
+__pycache__/
+antigravity_env/
+venv/
